@@ -4,9 +4,9 @@ Data analyst with an M.S. in Business Analytics from Carnegie Mellon University 
 
 ## 🔍 What I work with
 
-- **Analysis & modeling:** Python (pandas, scikit-learn, XGBoost), SQL, statistical modeling
-- **Visualization:** Tableau, matplotlib/seaborn
-- **Focus areas:** credit risk, customer analytics, forecasting
+- **Analysis & modeling:** SQL, Python (pandas, scikit-learn, XGBoost), statistical modeling
+- **Visualization:** Tableau, Sigma, Amplitude, matplotlib/seaborn
+- **Focus areas:** product analytics, customer journey, credit risk, forecasting
 
 ## 📌 Featured projects
 
